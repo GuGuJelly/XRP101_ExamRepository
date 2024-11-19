@@ -22,7 +22,7 @@ public class CubeManager : MonoBehaviour
 
     private void SetCubePosition()
     {
-        _cubeController.SetPosition(3,3,3);
+        _cubeController.SetPosition(3,0,3);
     }
 
     private void CreateCube()
